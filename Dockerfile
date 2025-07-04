@@ -17,3 +17,6 @@ EXPOSE 8000
 
 #run
 #docker run -p 8000:8000 api
+
+#run compose
+#docker compose up
